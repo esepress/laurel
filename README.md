@@ -1,6 +1,6 @@
 # Laurel
 
-A landing page template.
+An app landing page template.
 
 * [Getting started](#getting-started)
 
